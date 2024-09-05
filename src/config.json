@@ -1,0 +1,30 @@
+{
+    "tag_structure": {
+        "name": [],
+        "size": [],
+        "pose": [],
+        "head": [],
+        "eyes": [],
+        "mouth": [],
+        "body": [],
+        "legs": [],
+        "shoes": [],
+        "hands_holding": [],
+        "accessories": [],
+        "background": [],
+        "others": []
+    },
+    "reference_poses": {
+        "dance": 5,
+        "flexing": 3,
+        "jumping": 5,
+        "laying": 3,
+        "sitting": 9,
+        "standing": 19,
+        "others": 3
+    },
+    "prompts": {
+        "positive": "{{{masterpiece}}}, {{{best quality}}}, {{ultra-detailed}}, {cinematic lighting}, {illustration}, {beautiful detailed eyes}",
+        "negative": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name"
+    }
+}
